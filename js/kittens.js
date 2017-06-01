@@ -11,6 +11,7 @@ var MAX_BONUSES = 1;
 
 var PLAYER_WIDTH = 75;
 var PLAYER_HEIGHT = 54;
+
 var lives = 3;
 var gracePeriod = 3000;
 var bonusGracePeriod = gracePeriod;
